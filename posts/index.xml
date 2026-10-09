@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Edvardas Tamulevicius</title>
+    <link>https://edvvardas.github.io/posts/</link>
+    <description>Recent content in Posts on Edvardas Tamulevicius</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Oct 2026 21:53:24 +0300</lastBuildDate>
+    <atom:link href="https://edvvardas.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swag</title>
+      <link>https://edvvardas.github.io/posts/first-post/</link>
+      <pubDate>Fri, 09 Oct 2026 21:53:24 +0300</pubDate>
+      <guid>https://edvvardas.github.io/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;confidence-and-personal-style-slang&#34;&gt;Confidence and Personal Style (Slang)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Definition:&lt;/strong&gt; An effortless, bold, and self-assured appearance, attitude, or swagger (derived as a shortening of &lt;em&gt;swagger&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; &amp;ldquo;He walks into the room with total swag.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
